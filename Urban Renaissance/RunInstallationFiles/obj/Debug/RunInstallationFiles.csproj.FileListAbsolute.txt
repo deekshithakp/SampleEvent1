@@ -1,0 +1,9 @@
+D:\winforms\Urban Renaissance\Urban Renaissance\RunInstallationFiles\bin\Debug\RunInstallationFiles.exe.config
+D:\winforms\Urban Renaissance\Urban Renaissance\RunInstallationFiles\bin\Debug\RunInstallationFiles.exe
+D:\winforms\Urban Renaissance\Urban Renaissance\RunInstallationFiles\bin\Debug\RunInstallationFiles.pdb
+D:\winforms\Urban Renaissance\Urban Renaissance\RunInstallationFiles\obj\Debug\RunInstallationFiles.Main.resources
+D:\winforms\Urban Renaissance\Urban Renaissance\RunInstallationFiles\obj\Debug\RunInstallationFiles.Properties.Resources.resources
+D:\winforms\Urban Renaissance\Urban Renaissance\RunInstallationFiles\obj\Debug\RunInstallationFiles.csproj.GenerateResource.Cache
+D:\winforms\Urban Renaissance\Urban Renaissance\RunInstallationFiles\obj\Debug\RunInstallationFiles.exe
+D:\winforms\Urban Renaissance\Urban Renaissance\RunInstallationFiles\obj\Debug\RunInstallationFiles.pdb
+D:\winforms\Urban Renaissance\Urban Renaissance\RunInstallationFiles\obj\Debug\RunInstallationFiles.csprojResolveAssemblyReference.cache

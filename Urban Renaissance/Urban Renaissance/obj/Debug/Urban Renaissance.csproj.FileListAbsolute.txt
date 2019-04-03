@@ -1,0 +1,23 @@
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\bin\Debug\Urban Renaissance.exe.config
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\bin\Debug\Urban Renaissance.exe
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\bin\Debug\Urban Renaissance.pdb
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\obj\Debug\Urban Renaissance.csprojResolveAssemblyReference.cache
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.CommercialOffice.resources
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.Housing.resources
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.Property.resources
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.Properties.Resources.resources
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.VacantLand.resources
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\obj\Debug\Urban Renaissance.csproj.GenerateResource.Cache
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\obj\Debug\Urban Renaissance.exe
+c:\users\anandg\documents\visual studio 2015\Projects\Urban Renaissance\Urban Renaissance\obj\Debug\Urban Renaissance.pdb
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\bin\Debug\Urban Renaissance.exe.config
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\bin\Debug\Urban Renaissance.exe
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\bin\Debug\Urban Renaissance.pdb
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.CommercialOffice.resources
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.Housing.resources
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.Property.resources
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.Properties.Resources.resources
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\obj\Debug\Urban_Renaissance.VacantLand.resources
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\obj\Debug\Urban Renaissance.csproj.GenerateResource.Cache
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\obj\Debug\Urban Renaissance.exe
+D:\winforms\Urban Renaissance\Urban Renaissance\Urban Renaissance\obj\Debug\Urban Renaissance.pdb
